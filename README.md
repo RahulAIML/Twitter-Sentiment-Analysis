@@ -86,7 +86,8 @@ Prediction: Negative ❌
 ## Screenshot
 
 <img width="1189" height="490" alt="TwitterDatavisualization" src="https://github.com/user-attachments/assets/8befe5c4-e942-41c2-9677-981031c7c3d2" />
-![WhatsApp Image 2025-07-21 at 12 37 31_e2b0cb9a](https://github.com/user-attachments/assets/6d5bcac4-3673-4a51-ba42-35fbc0f9d940)
+![WhatsApp Image 2025-07-21 at 12 37 31_eaa69c9f](https://github.com/user-attachments/assets/3eb4ceff-4dfe-484f-898a-fd5f14b3515a)
+
 
 ---
 ✍️ Author
