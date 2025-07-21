@@ -78,6 +78,7 @@ Classification Report:
 ## Sample Output
 Tweet: "I love this product so much!"  
 Prediction: Positive ✅
+
 Tweet: "Worst day ever. I'm so done."  
 Prediction: Negative ❌
 
