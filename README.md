@@ -87,8 +87,10 @@ Prediction: Negative ❌
 
 Buddhadeb Bhattacharya<img width="1189" height="490" alt="TwitterDatavisualization" src="https://github.com/user-attachments/assets/8befe5c4-e942-41c2-9677-981031c7c3d2" />
 ![WhatsApp Image 2025-07-21 at 12 37 31_e2b0cb9a](https://github.com/user-attachments/assets/6d5bcac4-3673-4a51-ba42-35fbc0f9d940)
-✍️ Author
 
+---
+✍️ Author
+Buddhadeb Bhattacharya
 Data Science Enthusiast | AI Intern
 
 
