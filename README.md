@@ -41,15 +41,6 @@ This project implements a sentiment analysis model on real-world Twitter data (f
 
 ---
 
-## 🖼️ EDA (Exploratory Data Analysis)
-
-- Tweet length distribution
-- Word clouds of positive vs negative tweets
-- Sentiment class balance (positive/negative)
-- Frequent terms and hashtags
-
----
-
 ## 🧪 Requirements
 
 Install required packages:
