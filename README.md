@@ -65,14 +65,14 @@ Upload kaggle.json for Kaggle access
 313/313 ━━━━━━━━━━━━━━━━━━━━ 4s 12ms/step
 Classification Report:
 
-              precision    recall  f1-score   support
+                  precision    recall  f1-score   support
 
-           0       0.77      0.74      0.76      4977
-           1       0.75      0.78      0.77      5023
+           0         0.77      0.74      0.76      4977
+           1         0.75      0.78      0.77      5023
 
-    accuracy                           0.76     10000
-    macro avg       0.76      0.76      0.76     10000
-    weighted avg       0.76      0.76      0.76     10000
+    accuracy                              0.76     10000
+    macro avg          0.76      0.76     0.76     10000
+    weighted avg       0.76      0.76     0.76     10000
 
 ---
 ## Sample Output
