@@ -62,7 +62,6 @@ Upload kaggle.json for Kaggle access
 - Evaluate and visualize results
 ---
 ## Metrices values 
-313/313 ━━━━━━━━━━━━━━━━━━━━ 4s 12ms/step
 Classification Report:
 
                   precision    recall  f1-score   support
@@ -77,10 +76,10 @@ Classification Report:
 ---
 ## Sample Output
 Tweet: "I love this product so much!"  
-Prediction: Positive ✅
+Prediction: Positive 
 
 Tweet: "Worst day ever. I'm so done."  
-Prediction: Negative ❌
+Prediction: Negative 
 
 ## Further improvement 
 Currently the model is misclassifying with some text , we need to tune the hyperparameters or we can also use transformers for better accuracy in few lines of code .
