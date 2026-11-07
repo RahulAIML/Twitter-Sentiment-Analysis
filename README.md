@@ -93,6 +93,6 @@ Currently the model is misclassifying with some text , we need to tune the hyper
 ---
 ✍️ Author
 Buddhadeb Bhattacharya
-Data Science Enthusiast | AI Intern
+Data Science Enthusiast | 
 
 
